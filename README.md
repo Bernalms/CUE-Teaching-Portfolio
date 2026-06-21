@@ -10,3 +10,4 @@ This repository contains the interactive teaching materials, Colab notebooks, an
 * CMPUT 206: Image Processing
 
 Navigate through the directories to view week-by-week lecture and lab materials.
+# CUE-Teaching-Portfolio
