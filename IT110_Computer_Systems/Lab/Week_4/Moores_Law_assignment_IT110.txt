@@ -1,0 +1,40 @@
+Moore's Law assignment
+Completion requirements
+Opened: Sunday, 28 January 2024, 12:00 AM
+Due: Friday, 9 February 2024, 12:00 AM
+
+Dear students:
+Your second assignment for this term is to submit a two-page essay about Moore's Law.
+you will read three sources:
+
+A) Computer organization and design : the hardware/software interface : RISC-V edition
+
+The book is available at the library under this link:
+https://concordia.on.worldcat.org/oclc/1383657830
+B) The End of Moore's Law: A New Beginning for Information Technology
+
+Click below that publication name at bottom right corner a link that reads: 
+
+All 8 versions, there you will find versions that can be downloaded for free,
+ indicated by "[PDF]"
+
+
+Link: https://scholar.google.ca/scholar?hl=de&as_sdt=0%2C5&q=The+End+of+Moore%27s+Law%3A+A+New+Beginning+for+Information+Technology&btnG=
+
+The third resource is:
+
+C) Moore's law: past, present and future
+
+Under this link:
+https://scholar.google.ca/scholar?cluster=15489672935176096518&hl=de&as_sdt=0,5
+
+and you will click again on "Show all 6 versions"
+
+And click on the version that has the string "[PDF]" at the far right
+
+Best,
+
+Bernal
+	
+Computer Organization and Design, Patterson and Henessy, p.24-52.pdf Computer Organization and Design, Patterson and Henessy, p.24-52.pdf
+28 January 2024, 10:36 PM
